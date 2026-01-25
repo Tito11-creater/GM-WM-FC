@@ -1,4 +1,4 @@
-![IAGP framework](./figure1.png)
+![GM-WM FC](GM-WM-FC/GM-WM FC.png)
 
 # GM-WM-FC
 
