@@ -9,3 +9,5 @@ Paper link: XXX
 # Description of Improved_Atlas_Guided_Parcellation.m
 
 XXX
+
+# slanCM
