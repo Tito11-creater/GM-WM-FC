@@ -17,9 +17,13 @@ DPABI (https://rfmri.org/DPABI) for preprocessing
 
 BrainSpace toolbox (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
 
-CPM toolbox (https://github.com/YaleMRRC/CPM) for prediction model
+CPM toolbox (https://github.com/YaleMRRC/CPM) for prediction model analysis
 
 relaimpo package (https://cran.r-project.org/web/packages/relaimpo/index.html) for assessing relative importance in linear models
+
+ITK-SNAP toolbox (https://www.itksnap.org/pmwiki/pmwiki.php) for visualizing 3D brain atlas images
+
+slanCM toolbox (https://github.com/slandarer/slanColor) for visualizing FC matrices
 
 Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
 
