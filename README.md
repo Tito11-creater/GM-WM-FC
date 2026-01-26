@@ -13,4 +13,10 @@ SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 
 DPABI (https://rfmri.org/DPABI)
 
-CPQR (https://github.com/asdamle/QR-spectral-clustering)
+BrainSpace toolbox (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
+
+CPM toolbox (https://github.com/YaleMRRC/CPM) for prediction model
+
+Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal/Parcellations/MNI) for GM parcellation
+
+MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
