@@ -9,9 +9,9 @@ Paper link: XXX
 # Dependencies
 MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
 
-SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) for preprocessing
 
-DPABI (https://rfmri.org/DPABI)
+DPABI (https://rfmri.org/DPABI) for preprocessing
 
 BrainSpace toolbox (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
 
