@@ -7,13 +7,13 @@ Welcome to the GM-WM FC package; a companion to our article "Mapping the functio
 Paper link: XXX
 
 # Dependencies
-MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
+MATLAB (tested on R2020a version - https://www.mathworks.com/products/matlab.html)
 
-R (tested on XXX - https://www.r-project.org/)
+R (tested on 2023.06.10-524 version - https://www.r-project.org/)
 
-SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) for preprocessing
+SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) for fMRI data preprocessing
 
-DPABI (https://rfmri.org/DPABI) for preprocessing
+DPABI (https://rfmri.org/DPABI) for fMRI data preprocessing
 
 BrainSpace toolbox (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
 
