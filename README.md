@@ -18,6 +18,8 @@ MDD data (https://www.synapse.org/Synapse:syn22317081)
 
 Neurotransmitter density data (https://github.com/netneurolab/hansen_receptors)
 
+Neurosynth activation maps (https://www.neurosynth.org/)
+
 Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
 
 MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
@@ -36,6 +38,8 @@ DPABI (https://rfmri.org/DPABI) for fMRI data preprocessing
 BrainSpace (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
 
 CPM (https://github.com/YaleMRRC/CPM) for prediction model analysis
+
+NeuroSynth decoder (https://github.com/gpreti/GSP_StructuralDecouplingIndex/blob/master/Code_NCOMMS/Python/.ipynb_checkpoints)
 
 relaimpo (https://cran.r-project.org/web/packages/relaimpo/index.html) for assessing relative importance in linear models
 
