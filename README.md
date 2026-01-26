@@ -6,8 +6,11 @@ Welcome to the GM-WM FC package; a companion to our article "Mapping the functio
 
 Paper link: XXX
 
-# Description of Improved_Atlas_Guided_Parcellation.m
+# Dependencies
+MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
 
-XXX
+SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
 
-# slanCM
+DPABI (https://rfmri.org/DPABI)
+
+CPQR (https://github.com/asdamle/QR-spectral-clustering)
