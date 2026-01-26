@@ -8,6 +8,8 @@ Paper link: XXX
 
 # Data Sources
 
+HCP data ()
+
 Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
 
 MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
@@ -15,7 +17,7 @@ MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
 # Software Dependencies
 MATLAB (tested on R2020a version - https://www.mathworks.com/products/matlab.html)
 
-R (tested on 2023.06.10-524 version - https://www.r-project.org/)
+R (tested on 2023.06.10-524 version - https://dailies.rstudio.com/version/2023.06.1+524/)
 
 # Toolbox Dependencies
 
