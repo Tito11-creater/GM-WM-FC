@@ -6,10 +6,18 @@ Welcome to the GM-WM FC package; a companion to our article "Mapping the functio
 
 Paper link: XXX
 
-# Dependencies
+# Data Sources
+
+Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
+
+MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
+
+# Software Dependencies
 MATLAB (tested on R2020a version - https://www.mathworks.com/products/matlab.html)
 
 R (tested on 2023.06.10-524 version - https://www.r-project.org/)
+
+# Toolbox Dependencies
 
 SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) for fMRI data preprocessing
 
@@ -24,7 +32,3 @@ relaimpo package (https://cran.r-project.org/web/packages/relaimpo/index.html) f
 ITK-SNAP toolbox (https://www.itksnap.org/pmwiki/pmwiki.php) for visualizing 3D brain atlas images
 
 slanCM toolbox (https://github.com/slandarer/slanColor) for visualizing FC matrices
-
-Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
-
-MWMA-200 atlas (https://github.com/Tito11-creater/MWMA) for WM parcellation
