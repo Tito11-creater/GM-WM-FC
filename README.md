@@ -6,6 +6,9 @@ Welcome to the GM-WM FC package; a companion to our article "Mapping the functio
 
 Paper link: XXX
 
+Corresponding authors:
+Wei LIAO (weiliao.wl@gmail.com) and Jiao LI (jiaoli@uestc.edu.cn), The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory for Neuroinformation, University of Electronic Science and Technology of China, Chengdu 611731, P.R. China. Fax: +86-28-61831626. Tel: +86-28-61831626
+
 # Data Sources
 
 HCP data (https://www.humanconnectome.org/software/connectomedb)
