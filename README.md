@@ -11,15 +11,15 @@ Wei LIAO (weiliao.wl@gmail.com) and Jiao LI (jiaoli@uestc.edu.cn), The Clinical 
 
 # Data Sources
 
-HCP data (https://www.humanconnectome.org/software/connectomedb)
+HCP neuroimaging data (https://www.humanconnectome.org/software/connectomedb)
 
-AD data (https://adni.loni.usc.edu/data-samples/adni-data)
+AD neuroimaging data (https://adni.loni.usc.edu/data-samples/adni-data)
 
-ASD data (https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+ASD neuroimaging data (https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
 
-MDD data (https://www.synapse.org/Synapse:syn22317081)
+MDD neuroimaging data (https://www.synapse.org/Synapse:syn22317081)
 
-Neurotransmitter density data (https://github.com/netneurolab/hansen_receptors)
+Neurotransmitter density PET data (https://github.com/netneurolab/hansen_receptors)
 
 Neurosynth activation maps (https://www.neurosynth.org/)
 
