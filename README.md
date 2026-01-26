@@ -8,7 +8,15 @@ Paper link: XXX
 
 # Data Sources
 
-HCP data ()
+HCP data (https://www.humanconnectome.org/software/connectomedb)
+
+AD data (https://adni.loni.usc.edu/data-samples/adni-data)
+
+ASD data (https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+
+MDD data (https://www.synapse.org/Synapse:syn22317081)
+
+Neurotransmitter density data (https://github.com/netneurolab/hansen_receptors)
 
 Schaefer-400 atlas (https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) for GM parcellation
 
@@ -25,12 +33,12 @@ SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) for fMRI data preproce
 
 DPABI (https://rfmri.org/DPABI) for fMRI data preprocessing
 
-BrainSpace toolbox (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
+BrainSpace (https://brainspace.readthedocs.io/en/latest/) for functional gradients analysis
 
-CPM toolbox (https://github.com/YaleMRRC/CPM) for prediction model analysis
+CPM (https://github.com/YaleMRRC/CPM) for prediction model analysis
 
-relaimpo package (https://cran.r-project.org/web/packages/relaimpo/index.html) for assessing relative importance in linear models
+relaimpo (https://cran.r-project.org/web/packages/relaimpo/index.html) for assessing relative importance in linear models
 
-ITK-SNAP toolbox (https://www.itksnap.org/pmwiki/pmwiki.php) for visualizing 3D brain atlas images
+ITK-SNAP (https://www.itksnap.org/pmwiki/pmwiki.php) for visualizing 3D brain atlas images
 
-slanCM toolbox (https://github.com/slandarer/slanColor) for visualizing FC matrices
+slanCM (https://github.com/slandarer/slanColor) for visualizing FC matrices
