@@ -1,6 +1,6 @@
 ![GM-WM FC](./GM-WM-FC.png)
 
-# GM-WM FC
+# （Grey Matter-White Matter Functional Connectome）GM-WM FC
 
 Welcome to the GM-WM FC package; a companion to our article "Mapping the functional connectome between grey matter and white matter".
 
