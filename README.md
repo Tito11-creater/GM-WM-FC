@@ -48,4 +48,6 @@ relaimpo (https://cran.r-project.org/web/packages/relaimpo/index.html) for asses
 
 ITK-SNAP (https://www.itksnap.org/pmwiki/pmwiki.php) for visualizing 3D brain atlas images
 
+Connectome Workbench (https://www.humanconnectome.org/software/get-connectome-workbench) for cortical map visualization 
+
 slanCM (https://github.com/slandarer/slanColor) for visualizing FC matrices
