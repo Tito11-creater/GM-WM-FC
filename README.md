@@ -4,7 +4,7 @@
 
 Welcome to the GM-WM FC package; a companion to our article "Mapping the functional connectome between grey matter and white matter".
 
-Paper link: XXX
+Paper link: https://www.nature.com/articles/s42003-026-10483-7
 
 Corresponding author:
 Jiao LI (jiaoli@uestc.edu.cn), The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory for Neuroinformation, University of Electronic Science and Technology of China, Chengdu 611731, P.R. China. Fax: +86-28-61831626. Tel: +86-28-61831626
